@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru4">#070F2B</color>
+    <color name="biru3">#1B1A55</color>
+    <color name="biru2">#535C91</color>
+    <color name="biru1">#9290C3</color>
+</resources>
